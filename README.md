@@ -11,8 +11,6 @@
 
 Express.js Challenge: Note Taker
 
--   Demo [video]()
-
 ## Table of Contents
 
 -   [Installation](#installation)
@@ -55,8 +53,6 @@ Express.js Challenge: Note Taker
     ```sh
     node server.js
     ```
-
-3. Refer to [video]()
 
 ## Contributing
 
