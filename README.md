@@ -7,6 +7,10 @@
 
 </div>
 
+## Heroku
+
+https://safe-meadow-94275-9c412fbd3304.herokuapp.com/
+
 ## Description
 
 Express.js Challenge: Note Taker
@@ -53,6 +57,10 @@ Express.js Challenge: Note Taker
     ```sh
     node server.js
     ```
+
+3. Go to `http://localhost:3001/` in your browser
+
+![notes](https://github.com/manc1n1/note-taker/assets/18316547/9a89dda9-542b-4596-ad2f-29d95826bf9a)
 
 ## Contributing
 
